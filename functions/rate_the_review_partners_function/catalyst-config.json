@@ -1,0 +1,10 @@
+{
+	"deployment": {
+		"name": "rate_the_review_partners_function",
+		"stack": "node10",
+		"type": "advancedio"
+	},
+	"execution": {
+		"main": "index.js"
+	}
+}

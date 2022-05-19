@@ -1,0 +1,12 @@
+{
+  "functions": {
+    "targets": [
+      "rate_the_review_partners_function"
+    ],
+    "ignore": [],
+    "source": "functions"
+  },
+  "client": {
+    "source": "client"
+  }
+}
